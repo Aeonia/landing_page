@@ -1,0 +1,58 @@
+body {
+	background-color: #f9ed69;
+	background-image:url(8331.jpg);
+
+}
+
+/*section {
+	height: 100vh;
+}*/
+
+#carouselExampleIndicators {
+	max-height: 30vh;
+	/*max-width: 30%;*/
+	margin-top: 7vh;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+form {
+	margin-top: 5vh;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 1vh;
+	margin-top: 2vh;
+	font-family: helvetica;
+	color: #f2f3f9;
+	font-weight: 900;
+}
+
+.progress {
+	margin-top: 4vh;
+	width: 25vw;
+}
+
+
+#rs {
+	background-color: #76ffcb;
+	margin-top: 4vh;
+
+}
+
+#footer {
+	padding-top: 7vh;
+}
+
+section {
+	margin-top: 7vh;
+	background-color: rgba(11,19,56,0.98);
+	box-shadow: 1px 1px 12px #555;
+}
+
+label, #emailHelp {
+	color: #f2f3f9;
+}
